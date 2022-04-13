@@ -12,5 +12,5 @@
 
 ### Using
 
-Run tests `make test`
-Run linter `make lint`
+- Run tests `make test`
+- Run linter `make lint`
