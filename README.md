@@ -1,6 +1,6 @@
 # SICP (Racket)
 
-[![Racket CI](https://github.com/AnastasiaKv/SICP/actions/workflows/racketci.yml/badge.svg)](https://github.com/AnastasiaKv/SICP/actions/workflows/racketci.yml)
+[![Racket CI](https://github.com/AnastasiaKv/SICP/actions/workflows/racketci.yml/badge.svg)](https://github.com/AnastasiaKv/SICP/actions)
 
 ### Requirements
 
