@@ -9,9 +9,9 @@
             0
             b))
 
-(test 0 (p))
+;(test 0 (p))
 
 #| (p) it's a resursive procedure.
-For applicative-order evaluate of (p) never return, because it never stop resursing.
+For applicative-order evaluate of (p) never return, because it never stop recursing.
 For normal-order evaluate (test 0 (p)) return 0,
 because in conditional statment second argument (p) never need to be evalueted |#
