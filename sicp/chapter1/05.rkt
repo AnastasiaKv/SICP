@@ -1,7 +1,6 @@
 #lang sicp
 
-(#%require rackunit)
-
+#|review: 
 (define (p) (p))
 
 (define (test a b)
@@ -9,7 +8,8 @@
             0
             b))
 
-;(test 0 (p))
+(test 0 (p))
+ignore|#
 
 #| (p) it's a resursive procedure.
 For applicative-order evaluate of (p) never return, because it never stop recursing.
