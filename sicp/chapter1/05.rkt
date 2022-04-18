@@ -1,6 +1,6 @@
 #lang sicp
 
-#|review: 
+#|review:
 (define (p) (p))
 
 (define (test a b)
